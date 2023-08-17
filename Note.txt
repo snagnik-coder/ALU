@@ -1,0 +1,5 @@
+'s' is the control input
+'a' and 'b' are the inputs
+'c' is the output obtained on operation
+'carry' is the carry
+'z' is the zero output
